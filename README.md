@@ -5,4 +5,4 @@
 3. `yarn install`
 4. `npm test -- --watch`
 5. `a run all test`
-6. 
+6. ![](./test.gif)
